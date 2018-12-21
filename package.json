@@ -1,5 +1,5 @@
 {
-  "name": "engine.io",
+  "name": "@qempo/engine.io",
   "version": "3.3.2",
   "description": "The realtime engine behind Socket.IO. Provides the foundation of a bidirectional connection between client and server",
   "main": "lib/engine.io",
